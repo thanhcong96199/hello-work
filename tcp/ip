@@ -1,0 +1,12 @@
+* tổng quan về các thành phần của tcp/ip
+-telnet :là một chương trình cho phép đăng nhập từ xa , nó cho phép một người sử dujgn có thể từ một máy tính này có thể đăng nhập và sử sijng mt thứ hai như ngồi trước
+mặt nó .
+-giao thức chuyển tập tin :
+FTP  cho phép một tập tin nằm trỏng hệ thống này có thể được sao chép qua một hệ thống khác 
+một khi đã có sự kết nối đến một mt ở xa , ftp tạo điều kiện cho bạn có thể sao chép một hay nhiều tập tin qua mt của mk 
+FTP là chương trình được sử dụng rất rộng rãi trên internet cũng như trên mạng lan và wan 
+-giao thức chuyển mail đơn giản 
+-địa chỉ ip :sử dụng 32 bit để chỉ ra một máy tính trên mạng cà mạng mà nó đc kết nối . địa chỉ ip nhằm chỉ ra một sự kết nối giữa máy tính và mạng 
+không thuộc vào mt đấy là một phân biệt quan trọng 
+địa chỉ ip là một bộ các số mf chúng ta có thể có thể thấy đaijtaij các trạm làm việc hay thiết bị đầu cuối 
+địa chỉ ip đc xđ bởi network information center(NIC) .đại chỉ ip phải đc đăng kí với NIC  nếu kết nối mạng 
